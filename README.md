@@ -1,6 +1,6 @@
 # leftpad
 Left pad a string in Python. 
-Created to try out creating a `pip` package and uploading it to the [Python Package Index (PyPI)](https://pypi.org/).
+Created to try out making a `pip` package and uploading it to the [Python Package Index (PyPI)](https://pypi.org/).
 Inspired by the [`left-pad` package on npm](https://www.npmjs.com/package/left-pad) which [broke parts of the internet](https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/).
 
 # Install
